@@ -1,0 +1,7 @@
+{
+  "name": "Big Steel Studio",
+  "description": "Create professional, personalized quote graphics for social media with AI-generated content and custom photo overlays.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
